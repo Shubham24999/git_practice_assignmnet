@@ -6,7 +6,7 @@ for(let i = 2 ; i<=num/2 ;i++){
        count++;
    }
 }
-if(count==0){
+if(count==2){
    console.log("prime");
 }else{
    console.log("not prime");
